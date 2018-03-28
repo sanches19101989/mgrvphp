@@ -54,6 +54,8 @@
 --with-libdir=lib64 \
 --enable-dba=shared \
 --with-readline=/usr \
+--with-xmlrpc \
+--enable-intl \
 --enable-simplexml \
 --with-libdir=/lib/x86_64-linux-gnu \
 --with-config-file-scan-dir=/opt/php/php-version/etc/conf.d \
