@@ -48,6 +48,8 @@
 --enable-cgi \
 --with-curl \
 --with-gd \
+--enable-intl \
+--with-xmlrpc \
 --enable-pcntl \
 --enable-mbregex \
 --enable-gd-native-ttf \
